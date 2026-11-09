@@ -32,4 +32,6 @@
 
   (eval `(define results ,results) ns))
 
+(provide ~>>)
+
   
